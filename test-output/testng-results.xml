@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-04-16T01:45:59 ICT" name="Default suite" finished-at="2022-04-16T01:46:00 ICT" duration-ms="1241">
+    <groups>
+    </groups>
+    <test started-at="2022-04-16T01:45:59 ICT" name="Default test" finished-at="2022-04-16T01:46:00 ICT" duration-ms="1241">
+      <class name="com.edusys.dao.NhanVienDAOTest">
+        <test-method signature="testSelectBySql()[pri:1, instance:com.edusys.dao.NhanVienDAOTest@41d477ed]" started-at="2022-04-16T01:45:59 ICT" name="testSelectBySql" finished-at="2022-04-16T01:45:59 ICT" duration-ms="489" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSelectBySql -->
+        <test-method signature="testSelectAll()[pri:2, instance:com.edusys.dao.NhanVienDAOTest@41d477ed]" started-at="2022-04-16T01:45:59 ICT" name="testSelectAll" finished-at="2022-04-16T01:45:59 ICT" duration-ms="29" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSelectAll -->
+        <test-method signature="testSelectByID()[pri:3, instance:com.edusys.dao.NhanVienDAOTest@41d477ed]" started-at="2022-04-16T01:45:59 ICT" name="testSelectByID" finished-at="2022-04-16T01:45:59 ICT" duration-ms="43" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSelectByID -->
+        <test-method signature="testSelectByKey()[pri:4, instance:com.edusys.dao.NhanVienDAOTest@41d477ed]" started-at="2022-04-16T01:45:59 ICT" name="testSelectByKey" finished-at="2022-04-16T01:45:59 ICT" duration-ms="23" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSelectByKey -->
+        <test-method signature="testInsert()[pri:5, instance:com.edusys.dao.NhanVienDAOTest@41d477ed]" started-at="2022-04-16T01:45:59 ICT" name="testInsert" finished-at="2022-04-16T01:45:59 ICT" duration-ms="167" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testInsert -->
+        <test-method signature="testUpdate()[pri:6, instance:com.edusys.dao.NhanVienDAOTest@41d477ed]" started-at="2022-04-16T01:45:59 ICT" name="testUpdate" finished-at="2022-04-16T01:46:00 ICT" duration-ms="252" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUpdate -->
+        <test-method signature="testDelete()[pri:7, instance:com.edusys.dao.NhanVienDAOTest@41d477ed]" started-at="2022-04-16T01:46:00 ICT" name="testDelete" finished-at="2022-04-16T01:46:00 ICT" duration-ms="185" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDelete -->
+      </class> <!-- com.edusys.dao.NhanVienDAOTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
